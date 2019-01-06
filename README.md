@@ -1,5 +1,6 @@
 # conf_talks
-Conference talks that have heavily influenced me, they are in no particular order except maybe `Boundaries` being an absolute number 1.
+
+Conference talks that have heavily influenced me, they are in no particular order.
 
 | Title | Speaker | Notes |
 | ----- | ------- | ----- |
@@ -18,7 +19,6 @@ Conference talks that have heavily influenced me, they are in no particular orde
 | [Refactoring Fat Models with Patterns](https://www.youtube.com/watch?v=5yX6ADjyqyE) | Bryan Helmkamp | ... |
 | [Confident Code](https://www.youtube.com/watch?v=T8J0j2xJFgQ) | Avdi Grimm | ... |
 | [Refactoring from Good to Great](https://www.youtube.com/watch?v=DC-pQPq0acs) | Ben Orenstein | ... |
-| [Architecture the Lost Years](https://www.youtube.com/watch?v=WpkDN78P884) | Robert Martin | ... |
 | [Keynote - How to Program](https://www.youtube.com/watch?v=V4fnzHxHXMI) | Justin Searls | ... |
 | [How to Stop Hating Your Test Suite](https://www.youtube.com/watch?v=VD51AkG8EZw) | Justin Searls | ... |
 | [Breaking Up(with) Your Test Suite](https://www.youtube.com/watch?v=9_3RsSvgRd4) | Justin Searls | ... |
@@ -36,4 +36,100 @@ Conference talks that have heavily influenced me, they are in no particular orde
 
 ### Boundaries
 
-Possibly the most influential conference talk I've ever watched, this builds on many of the ideas presented in the Destroy All Software screencasts and really helped make separating the arrangement of work from the actual work click with me.  It also has vastly impoved the testability, reliability and readability of my code.
+Possibly the most influential conference talk I've ever watched, this builds on many of the ideas presented in the Destroy All Software screencasts and really helped make separating the arrangement of work from the actual work click with me. It also has vastly impoved the testability, reliability and readability of my code. I don't see this approach as a silver bullet but I'll often reach for it when business logic gets overly complex.
+
+### Functional Architecture for the Practical Rubyist
+
+...
+
+### Feature Branches and Toggles in a Post-GitHub World
+
+...
+
+### In Relentless Pursuit of REST
+
+...
+
+### The Magic Tricks of Testing
+
+...
+
+### All the Little Things
+
+...
+
+### Nothing is Something
+
+...
+
+### The Many Meanings of Event-Driven Architecture
+
+...
+
+### Functional Architecture - The Pits of Success
+
+...
+
+### Kill Microservices Before it's Too Late
+
+...
+
+### Why You Don't Get Mock Objects
+
+...
+
+### Beyond PEP 8 - Best Practices for Beautiful Intelligible Code
+
+...
+
+### Refactoring Fat Models with Patterns
+
+...
+
+### Confident Code
+
+...
+
+### Refactoring from Good to Great
+
+...
+
+### Keynote - How to Program
+
+...
+
+### How to Stop Hating Your Test Suite
+
+...
+
+### Breaking Up(with) Your Test Suite
+
+...
+
+### Happier TD
+
+...
+
+### Design Patterns And The Proper Cultivation Thereof
+
+...
+
+### Fast Rails Tests
+
+...
+
+### Devs and Depression
+
+...
+
+### Simplicity Matters
+
+...
+
+### Software that Fits in Your Head
+
+...
+
+### Phoenix 1.3
+
+...
